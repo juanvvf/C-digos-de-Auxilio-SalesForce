@@ -1,0 +1,19 @@
+
+
+
+/*Expence__c exp = new Expence__c(Name = 'vara de pescar', Amount__c = 2);
+insert exp;
+*/
+
+/*String [] appNomes = new String [5];
+appNomes [0] = 'Gmail';
+appNomes [1] = 'Docs';
+appNomes [2] = 'Apps';
+appNomes [3] = 'Jogos';
+appNomes [4] = 'Web';
+
+String primeiroApp = appNomes [0]; // primeiroApp será "Gmail"
+System.debug(primeiroApp);
+int tamanhoApp = appNomes.length();
+System.debug(tamanhoApp);
+*\
